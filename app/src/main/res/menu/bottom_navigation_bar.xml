@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ana Sayfa" android:id="@+id/option_home" android:icon="@drawable/ic_home" />
+    <item android:title="Çok Yakında" android:id="@+id/option_soon" android:icon="@drawable/ic_coming_soon" />
+    <item android:title="İndirilenler" android:id="@+id/option_download" android:icon="@drawable/ic_bottom_download" />
+</menu>
